@@ -7,7 +7,7 @@
 Hello ! 
 I am Back End web developer who is passionate about making error-free websites with 100% client satisfaction.I love to solve real world problem.
 
-Skills: CodeIgniter / Laravel / JS / HTML / CSS / BOOTSRAP / Python / PHP / C++ / C / WORDPRESS 
+Skills: CodeIgniter / Laravel / JavaScript / Ajax / jQuery / VueJs / HTML5 / CSS / BOOTSRAP / Python / PHP / C++ / C / WORDPRESS 
 
 - 🔭 I’m currently working on Global Skills Development Agency 
 - 🌱 I’m currently learning Flutter 
