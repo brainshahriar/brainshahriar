@@ -13,7 +13,7 @@ Skills: CodeIgniter / Laravel / JavaScript / Ajax / jQuery / VueJs / HTML5 / CSS
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: shahriarmehedi94@gmail.com 
+- 📫 How to reach me: https://www.shahriar.eduera.com.bd/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brainshahriar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Al Shahriar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/al.shahariar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/al.shahriar.mehedi/)  
