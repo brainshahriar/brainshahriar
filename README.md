@@ -12,7 +12,7 @@ Skills: PHP / Laravel / CodeIgniter / ReactJs / JavaScript / Ajax / jQuery / Vue
 - 🔭 I’m currently working on Global Skills Development Agency 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web/Software Development 
 - 📫 How to reach me: https://www.shahriar.eduera.com.bd/ 
 
 
