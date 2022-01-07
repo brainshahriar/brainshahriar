@@ -5,7 +5,7 @@
 
 
 Hello ! 
-I am Back End Software developer who is passionate about making error-free software with 100% client satisfaction.I love to solve real world problem.
+I am Back End Software developer who is passionate about making error-free software with 100%  satisfaction.I love to solve real world problem.
 
 Skills: PHP / Laravel / CodeIgniter / ReactJs / JavaScript / Ajax / jQuery / VueJs /  Python / C++ / C / WORDPRESS / HTML5 / CSS3 / BOOTSTRAP 
 
