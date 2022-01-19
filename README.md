@@ -9,7 +9,7 @@ I am Back End Software developer who is passionate about making error-free softw
 
 Skills: PHP / Laravel / CodeIgniter / ReactJs / JavaScript / Ajax / jQuery / VueJs /  Python / C++ / C / WORDPRESS / HTML5 / CSS3 / BOOTSTRAP 
 
-- 🔭 I’m currently working on Global Skills Development Agency 
+- 🔭 I’m currently working on Bangladesh Japan Information Technology 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web/Software Development 
