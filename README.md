@@ -7,7 +7,7 @@
 Hello ! 
 I am Back-End software developer who is passionate about making error-free software with 100%  satisfaction.I love to solve real world problem.
 
-Skills: PHP / Laravel / CodeIgniter / NodeJs / ReactJs / JavaScript / Ajax / jQuery / VueJs /  Python / C++ / C / WORDPRESS / HTML5 / CSS3 / BOOTSTRAP / Java / Django
+Skills: PHP / Laravel / CodeIgniter / Node.Js / ReactJs / JavaScript / Ajax / jQuery / VueJs /  Python / C++ / C / WORDPRESS / HTML5 / CSS3 / BOOTSTRAP / Java / Django
 
 - 🔭 I’m currently working on Bangladesh Japan Information Technology (BJIT) 
 - 🌱 I’m currently learning Node.js 
