@@ -5,9 +5,9 @@
 
 
 Hello ! 
-I am Back-End software developer who is passionate about making error-free software with 100%  satisfaction.I love to solve real world problem.
+I am Full-Stack Software engineer who is passionate about making error-free software with 100%  satisfaction.I love to solve real world problem.
 
-Skills: PHP / Laravel / CodeIgniter / Node.Js / ReactJs / JavaScript / Ajax / jQuery / Express.Js / Nest.Js /  TypeScript / C++ / C / HTML5 / CSS3 / BOOTSTRAP / MySql / MongDB 
+Skills: Node.Js / ReactJs / JavaScript / Ajax / jQuery / Express.Js / Nest.Js /  TypeScript / C++ / C / HTML5 / CSS3 / BOOTSTRAP / MySql / MongDB / PHP / Laravel / CodeIgniter
 
 - 🔭 I’m currently working on Bangladesh Japan Information Technology (BJIT) 
 - 🌱 I’m currently learning Node.js 
