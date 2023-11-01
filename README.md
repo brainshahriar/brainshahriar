@@ -13,7 +13,7 @@ Skills: Node.Js / ReactJs / JavaScript / Ajax / jQuery / Express.Js / Nest.Js / 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web/Software Development 
-- 📫 How to reach me: https://shahriar-portfolio-five.vercel.app/
+- 📫 How to reach me: [https://shahriar-portfolio-five.vercel.app/](https://al-shahriar.netlify.app/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/brainshahriar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/Al Shahriar/](https://www.linkedin.com/in/al-shahriar-mehedi-4094341bb/))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/al.shahariar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/al.shahriar.mehedi/)  
